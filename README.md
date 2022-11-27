@@ -62,6 +62,9 @@ The User are allowed to make payment for the amount less than Rs.5001/- Finally,
 
 In the Payment Status Module, If the Transaction is Successful then the SuccessFull page is Shown. Otherwise UnSuccessful Page is Shown.
 
+# Results 
+
+![alt text](http://url/Online_Payment/image1.png)
 
 # References
 
