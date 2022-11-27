@@ -67,7 +67,7 @@ In the Payment Status Module, If the Transaction is Successful then the SuccessF
 ![alt text](Online_Payment/image1.png)
 ![alt text](Online_Payment/image2.png)
 ![alt text](Online_Payment/image3.png)
-![alt text](Online_Payment/image4.png)
+![alt text](Online_Payment/image6.png)
 ![alt text](Online_Payment/image5.png)
 ![alt text](Online_Payment/image7.png)
 
