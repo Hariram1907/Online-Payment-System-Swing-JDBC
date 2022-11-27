@@ -31,6 +31,8 @@ Payment status page.
 
 1.Registration Form
 
+![WhatsApp Image 2022-04-16 at 12 46 47 AM](https://user-images.githubusercontent.com/80205014/193754731-897b44fb-db1c-4673-bcc2-72cf496b157e.jpeg)
+
                                   In the Registration Module, we collect the user information like Username, EmailId, Password and these values stored to Database after pressing the “Register” Button after validating the OTP sent to the user’s mail id. The Validations are checked for Password Field. The Password should be greater than 8 characters. If the user already has an account, then the user can click the  “Sign in” button  and navigate the user to the Login Page.
 
 2. Login Form
