@@ -64,7 +64,7 @@ In the Payment Status Module, If the Transaction is Successful then the SuccessF
 
 # Results 
 
-![alt text](http://url/Online_Payment/image1.png)
+![alt text](https://raw.githubusercontent.com/Online_Payment/image1.png)
 
 # References
 
